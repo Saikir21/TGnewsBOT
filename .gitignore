@@ -1,3 +1,4 @@
 doc.env
 __pycache__/
 venv/
+.gitignore
